@@ -1,11 +1,11 @@
-# Novation nocturn Python library
+## Novation nocturn Python library
 
 Working version of a library to manage this great device
 and use it in any midi or non midi project.
 
-This library was developed for Linux.
+This library was developed for *Linux*.
 
-This code is based on the sgreat work from Felicia (<https://github.com/Drachenkaetzchen/nocturn-game>)
+This code is based on the great work from *Felicia* (<https://github.com/Drachenkaetzchen/nocturn-game>)
 
 It requires pyusb library that can be installed as follows:
 
